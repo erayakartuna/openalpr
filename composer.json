@@ -1,14 +1,4 @@
 {
-    "name": "erayakartuna/openalpr",
-    "description": "",
-    "keywords": [
-        "swagger",
-        "php",
-        "sdk",
-        "api"
-    ],
-    "homepage": "http://swagger.io",
-    "license": "Apache v2",
     "authors": [
         {
             "name": "Swagger and contributors",
